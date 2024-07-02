@@ -30,7 +30,7 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Web Scraping **Requests and BeautifulSoup**.
+- Web Scraping **Requests, BeautifulSoup, and Scrapy**.
 - Python.
 - Prompt Engineering
 - GPT, Gemini API's
