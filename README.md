@@ -1,16 +1,75 @@
-## Hi there 👋
+ # <a href="https://www.linkedin.com/in/abdelrahman-mohamed-167915271/">Abdelrahman Mohamed</a> :smiley:
+ 
 
-<!--
-**AbdooMohamedd/AbdooMohamedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/abdelrahman-mohamed-167915271">
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AbdooMohamedd">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/abdo__muhamedd">
+  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100024079448061">
+  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://medium.com/@abdelrahman.mohamed1081">
+  <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Data Science | Prompt Engineering | Machine Learning | Deep Learning | Data Analysis with Python | Web Scraping | Scrapy | Excel |  Power BI | GPT API
+
+## About :sunglasses:
+I am a senior 4th-year Computer Science Data Science student at Canadian International College (CIC),
+with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (DL). I am proficient in working with Large Language Models (LLMs) such as GPT and Gemini APIs. I have extensive experience in web scraping using tools like requests, BeautifulSoup, and Scrapy. Additionally, I am skilled in data analysis using Excel and Power BI.
+
+
+## Technologies :fire:
+- Data Analysis with **Python**.
+- Data Science.
+- Web Scraping **Requests and BeautifulSoup**.
+- Python.
+- Prompt Engineering
+- GPT, Gemini API's
+- Machine Learning
+- Deep Learning
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+<a href="https://github.com/AbdooMohamedd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooMohamedd&theme=radical&hide=glsl,python" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdooMohamedd&&show_icons=true&theme=radical&line_height=27&v=5" alt="ABdelrahman's GitHub Stats" />
+
+
+<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
+</a>    
+
+
+##  Contact Me :speech_balloon:
+ [![Linkedin Badge](https://img.shields.io/badge/-Abdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-mohamed-167915271/)](https://www.linkedin.com/in/abdelrahman-mohamed-167915271/)
+[![Gmail Badge](https://img.shields.io/badge/-abdelrahman.mohamed1081@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:abdelrahman.mohamed1081@gmail.com
+)](mailto:abdelrahman.mohamed1081@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@abdo__muhamedd-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/abdo__muhamedd/)](https://www.instagram.com/abdo__muhamedd/)
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
