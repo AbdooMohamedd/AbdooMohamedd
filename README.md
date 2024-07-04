@@ -51,12 +51,12 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooMohamedd&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdooMohamedd&&show_icons=true&theme=radical&line_height=27&v=5" alt="ABdelrahman's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdooMohamedd&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aلاdelrahman's GitHub Stats" />
 
 
 <a href="https://github.com/AbdooMohamedd/CIFAKE-Real-and-AI-Generated-differentiation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=CIFAKE Real and AI-Generated images differentiation&theme=radical" />
 </a>    
 
 
