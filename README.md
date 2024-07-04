@@ -56,7 +56,7 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 
 <a href="https://github.com/AbdooMohamedd/CIFAKE-Real-and-AI-Generated-differentiation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=CIFAKE Real and AI-Generated images differentiation&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdooMohamedd&repo=CIFAKE-Real-and-AI-Generated-differentiation&theme=radical" />
 </a>    
 
 
