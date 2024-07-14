@@ -46,7 +46,12 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerBI logo"  /> <img width="12" /></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="vscode logo"  /> <img width="12" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  /><img width="12" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /></code>
+  
 
 <a href="https://github.com/AbdooMohamedd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooMohamedd&theme=radical&hide=glsl,python" />
@@ -73,4 +78,17 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+
+
+<div>
+<h3 align="left">🔥   Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lara-mamdouh-291882230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lara-mamdouh-291882230/" height="30" width="40" /></a>
+<a href="https://kaggle.com/lara311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lara311" height="30" width="40" /></a>
+</p>
+</div>
+
+### 
 
