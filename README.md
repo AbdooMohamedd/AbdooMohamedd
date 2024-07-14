@@ -28,14 +28,15 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 
 
 ## Technologies :fire:
-- Data Analysis with **Python**.[Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
-- Data Science.
-- Web Scraping **Requests, BeautifulSoup, and Scrapy**.
+- Data Analysis with **Python**.                             [Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
+- Data Science.                                              [Python Data science Projects](https://github.com/AbdooMohamedd/Data-Science-projects)
+- Web Scraping **Requests, BeautifulSoup, and Scrapy**.      [BeautifulSoup Web Scraping Projects](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects)
 - Python.
 - Prompt Engineering
 - GPT, Gemini API's
 - Machine Learning
 - Deep Learning
+- Excel data analysis
 
 **Languages and Tools:**  
 
