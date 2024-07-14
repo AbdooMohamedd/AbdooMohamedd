@@ -28,7 +28,7 @@ with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (
 
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
+- Data Analysis with **Python**.[Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
 - Data Science.
 - Web Scraping **Requests, BeautifulSoup, and Scrapy**.
 - Python.
