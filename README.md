@@ -23,9 +23,7 @@
 Python | Data Science | Prompt Engineering | Machine Learning | Deep Learning | Data Analysis with Python | Web Scraping | Scrapy | Excel |  Power BI | GPT API
 
 ## About :sunglasses:
-I am a senior 4th-year Computer Science Data Science student at Canadian International College (CIC),
-with a deep passion for Data Science, Machine Learning (ML), and Deep Learning (DL). I am proficient in working with Large Language Models (LLMs) such as GPT and Gemini APIs. I have extensive experience in web scraping using tools like requests, BeautifulSoup, and Scrapy. Additionally, I am skilled in data analysis using Excel and Power BI.
-
+I am a senior 4th-year Computer Science Data Science student at Canadian International College (CIC) who is passionate about Data Science, Machine Learning (ML), and Deep Learning. I am skilled at working with Large Language Models (LLMs) such as GPT and Gemini APIs. I have vast experience with web scraping programs such as requests, BeautifulSoup, and Scrapy. Furthermore, I am proficient in data analysis with Excel and Power BI.
 
 ## Technologies :fire:
 - Data Analysis with **Python**.                             [Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
