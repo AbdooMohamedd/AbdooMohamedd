@@ -9,9 +9,10 @@
 [![DataCamp Badge](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://www.datacamp.com/portfolio/abdelrahmanmohamed1081 "View my DataCamp Portfolio")
 
 
-I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, specializing in data science :bar_chart: and web scraping :snake:. My passion is translating complex data into clear, useful information that everyone can understand and use to make better decisions.
+I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt 🌍, specializing in data science 📊 and web scraping 🐍. My passion is translating complex data into clear, useful information that everyone can understand and use to make better decisions.
 
-Currently, Now I am expanding my skills in Azure, large language models (LLMs), and prompt engineering to remain ahead of AI developments. I am passionate about learning, creating innovative models, and taking on new challenges. Let's collaborate and bring your ideas to reality!
+Currently, I am expanding my skills in Azure ☁️, large language models (LLMs) 🤖, and prompt engineering to remain ahead of AI developments. I am passionate about learning, creating innovative models, and taking on new challenges. Let's collaborate and bring ideas to reality! 🚀
+
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with Data Science, Machine Learning, Python, Web Scraping, and Git.
 - 💬 Talk to me about whether the universe has an end, if Schrödinger's cat gets bored, and why time flies when you're having fun.
