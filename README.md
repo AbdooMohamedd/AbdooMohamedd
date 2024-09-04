@@ -1,81 +1,78 @@
- # <a href="https://www.linkedin.com/in/abdelrahman-mohamed-167915271/">Abdelrahman Mohamed</a> :smiley:
- 
+## Hi there, [Abdelrahman](https://abdoomohamedd.github.io/) here 👋🏼👨🏻‍💻
 
-<a href="https://linkedin.com/in/abdelrahman-mohamed-167915271">
-  <img align="left" alt="Abdo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
+
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
+I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+<details>
+  <summary>Some of my Github Public Stats :computer:</summary>
+  
+  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
+
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+  ----
+  
+</details>
+
+<details>
+  <summary>Find me around the web :globe_with_meridians:</summary>
+  
+  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/think.png" align="right" height="150" /></a>
+  
+[![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
+[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daftdey/ "Follow on Instagram")
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
+[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
+----
+
+</details>
+
+[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
+
+<!--For future reference 
+<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samujjwaal.samujjwaal)
+[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
+![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=samujjwaal&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/AbdooMohamedd">
-  <img align="left" alt="Abdo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/abdo__muhamedd">
-  <img align="left" alt="Abdo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100024079448061">
-  <img align="left" alt="Abdo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@abdelrahman.mohamed1081">
-  <img align="left" alt="Abdo's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal" width="350"/>
 </a>
 
-<br/>
-<br/>
-
-Python | Data Science | Prompt Engineering | Machine Learning | Deep Learning | Data Analysis with Python | Web Scraping | Scrapy | Excel |  Power BI | GPT API
-
-## About :sunglasses:
-I am a senior 4th-year Computer Science Data Science student at Canadian International College (CIC) who is passionate about Data Science, Machine Learning (ML), and Deep Learning. I am skilled at working with Large Language Models (LLMs) such as GPT and Gemini APIs. I have vast experience with web scraping programs such as requests, BeautifulSoup, and Scrapy. Furthermore, I am proficient in data analysis with Excel and Power BI.
-
-## Technologies :fire:
-- Data Analysis with **Python**.                             [Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
-- Data Science.                                              [Python Data science Projects](https://github.com/AbdooMohamedd/Data-Science-projects)
-- Web Scraping **Requests, BeautifulSoup, and Scrapy**.      [BeautifulSoup Web Scraping Projects](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects)
-- Python.
-- Prompt Engineering
-- GPT, Gemini API's
-- Machine Learning
-- Deep Learning
-- Excel data analysis
-
-**Languages and Tools:**  
-<div>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"><img width="12" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40"><img width="12" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="40"><img width="12" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="40"><img width="12" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40"><img width="12" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="40"><img width="12" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerBI logo"  /> <img width="12" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="vscode logo"  /> <img width="12" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  /><img width="12" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" /></code>
-
-</div>
-
-
-<a href="https://github.com/AbdooMohamedd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooMohamedd&theme=radical&hide=glsl,python" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdooMohamedd&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aلاdelrahman's GitHub Stats" />
-
-
-<a href="https://github.com/AbdooMohamedd/CIFAKE-Real-and-AI-Generated-differentiation">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdooMohamedd&repo=CIFAKE-Real-and-AI-Generated-differentiation&theme=radical" />
-</a>    
-
-
-##  Contact Me :speech_balloon:
- [![Linkedin Badge](https://img.shields.io/badge/-Abdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-mohamed-167915271/)](https://www.linkedin.com/in/abdelrahman-mohamed-167915271/)
-[![Gmail Badge](https://img.shields.io/badge/-abdelrahman.mohamed1081@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:abdelrahman.mohamed1081@gmail.com
-)](mailto:abdelrahman.mohamed1081@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@abdo__muhamedd-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/abdo__muhamedd/)](https://www.instagram.com/abdo__muhamedd/)
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal)
+-->
