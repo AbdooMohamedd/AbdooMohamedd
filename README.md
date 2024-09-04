@@ -22,9 +22,9 @@ I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, sp
   
   <a href="https://abdoomohamedd.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=abdoomohamedd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/abdoomohamedd)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=abdoomohamedd&color=blue)
   ----
   
 </details>
