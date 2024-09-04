@@ -11,10 +11,9 @@
 
 I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, specializing in data science :bar_chart: and web scraping :snake:. My passion is translating complex data into clear, useful information that everyone can understand and use to make better decisions.
 
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Git.
+- 💬 Talk to me about whether the universe has an end, if Schrödinger's cat gets bored, and why time flies when you're having fun.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
