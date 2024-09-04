@@ -9,7 +9,7 @@
 [![DataCamp Badge](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://www.datacamp.com/portfolio/abdelrahmanmohamed1081 "View my DataCamp Portfolio")
 
 
-<a href="https://abdoomohamedd.github.io//"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://abdoomohamedd.github.io//">align="right" height="275" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
