@@ -11,6 +11,7 @@
 
 I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, specializing in data science :bar_chart: and web scraping :snake:. My passion is translating complex data into clear, useful information that everyone can understand and use to make better decisions.
 
+Currently, Now I am expanding my skills in Azure, large language models (LLMs), and prompt engineering to remain ahead of AI developments. I am passionate about learning, creating innovative models, and taking on new challenges. Let's collaborate and bring your ideas to reality!
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with Data Science, Machine Learning, Python, Web Scraping, and Git.
 - 💬 Talk to me about whether the universe has an end, if Schrödinger's cat gets bored, and why time flies when you're having fun.
@@ -31,6 +32,13 @@ I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, sp
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B008B?style=flat-square&logo=BeautifulSoup)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,29 +47,9 @@ I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt, sp
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B008B?style=flat-square&logo=BeautifulSoup)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn)
-
-
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-
-
-
-
 
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
