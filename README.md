@@ -52,6 +52,24 @@ Currently, I am expanding my skills in Azure ☁️, large language models (LLMs
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+
+
+## 📺 GitHub Latest Projects
+
+<!-- YOUTUBE:START -->
+- [Data Science Projects](https://github.com/AbdooMohamedd/Data-Science-projects)
+- [Machine Learning Projects](https://github.com/AbdooMohamedd/Machine-Learning-Projects)
+- [Personal Website](https://github.com/AbdooMohamedd/AbdooMohamedd.github.io)
+- [BeautifulSoup Web Scraping Projects](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects)
+- [Python Data Analysis Projects](https://github.com/AbdooMohamedd/Python-Data-Analysis-Projects)
+
+
+
+
+
+
+
+
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
