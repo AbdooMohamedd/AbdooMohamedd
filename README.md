@@ -2,8 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.mohamed1081@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdelrahman.mohamed1081@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed1081/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+[![Kaggle Badge](https://img.shields.io/badge/-@abdoomoh-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abdoomoh "Follow on Kaggle")
+
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
