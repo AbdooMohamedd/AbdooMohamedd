@@ -3,13 +3,13 @@
 [![Website Badge](https://img.shields.io/badge/-Website-0078FF?style=flat&logo=Google%20Chrome&logoColor=white)](https://abdoomohamedd.github.io/ "Visit my Website")
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.mohamed1081@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdelrahman.mohamed1081@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed1081/ "Connect on LinkedIn")
-[![Kaggle Badge](https://img.shields.io/badge/-@Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abdoomoh "Follow on Kaggle")
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abdoomoh "Follow on Kaggle")
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@abdelrahman.mohamed1081 "Read my articles on Medium")
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a2420169fb60ba5a "Hire me on Upwork")
 [![DataCamp Badge](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://www.datacamp.com/portfolio/abdelrahmanmohamed1081 "View my DataCamp Portfolio")
 
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://abdoomohamedd.github.io//"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
