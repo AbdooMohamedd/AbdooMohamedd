@@ -14,7 +14,7 @@ I am a Junior Data Scientist and freelance Web Scraper based in Cairo, Egypt �
 Currently, I am expanding my skills in Azure ☁️, large language models (LLMs) 🤖, and prompt engineering to remain ahead of AI developments. I am passionate about learning, creating innovative models, and taking on new challenges. Let's collaborate and bring ideas to reality! 🚀
 
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with Data Science, Machine Learning, Python, Web Scraping, and Git.
+- 📭 [Reach out](https://www.linkedin.com/in/abdelrahman-mohamed1081/) for help with Data Science, Machine Learning, Python, Web Scraping, and Git.
 - 💬 Talk to me about whether the universe has an end, if Schrödinger's cat gets bored, and why time flies when you're having fun.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
