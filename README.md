@@ -22,8 +22,6 @@ Currently, I am expanding my skills in Azure ☁️, large language models (LLMs
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://abdoomohamedd.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
-
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=abdoomohamedd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/abdoomohamedd)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=abdoomohamedd&color=blue)
@@ -58,6 +56,7 @@ Currently, I am expanding my skills in Azure ☁️, large language models (LLMs
 
 <!-- YOUTUBE:START -->
 - [Data Science Projects](https://github.com/AbdooMohamedd/Data-Science-projects)
+- [Gemini Article Summarizer](https://github.com/AbdooMohamedd/Article-Summarizer-with-Gemini-API)
 - [Machine Learning Projects](https://github.com/AbdooMohamedd/Machine-Learning-Projects)
 - [Personal Website](https://github.com/AbdooMohamedd/AbdooMohamedd.github.io)
 - [BeautifulSoup Web Scraping Projects](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects)
