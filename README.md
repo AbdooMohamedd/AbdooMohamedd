@@ -16,7 +16,6 @@ Currently, I am expanding my skills in Azure ☁️, large language models (LLMs
 
 - 📭 [Reach out](https://www.linkedin.com/in/abdelrahman-mohamed1081/) for help with Data Science, Machine Learning, Python, Web Scraping, and Git.
 - 💬 Talk to me about whether the universe has an end, if Schrödinger's cat gets bored, and why time flies when you're having fun.
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 <details>
